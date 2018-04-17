@@ -33,7 +33,7 @@ namespace RoboRyanTron.Unite2017.Variables
             }
         }
 
-        public FloatVariable MoveRate;
+        public SoArchitecture.FloatVariable MoveRate;
         public MoveAxis Horizontal = new MoveAxis(KeyCode.D, KeyCode.A);
         public MoveAxis Vertical = new MoveAxis(KeyCode.W, KeyCode.S);
 

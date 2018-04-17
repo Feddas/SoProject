@@ -11,11 +11,11 @@ namespace RoboRyanTron.Unite2017.Variables
 {
     public class SimpleUnitHealth : MonoBehaviour
     {
-        public FloatVariable HP;
+        public SoArchitecture.FloatVariable HP;
 
         public bool ResetHP;
 
-        public FloatReference StartingHP;
+        public SoArchitecture.FloatReference StartingHP;
 
         private void Start()
         {

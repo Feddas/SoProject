@@ -13,9 +13,9 @@ namespace RoboRyanTron.Unite2017.Variables
     {
         public AudioSource AudioSource;
 
-        public FloatVariable Variable;
+        public SoArchitecture.FloatVariable Variable;
 
-        public FloatReference LowThreshold;
+        public SoArchitecture.FloatReference LowThreshold;
 
         private void Update()
         {

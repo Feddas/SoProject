@@ -11,6 +11,6 @@ namespace RoboRyanTron.Unite2017.Variables
 {
     public class DamageDealer : MonoBehaviour
     {
-        public FloatReference DamageAmount;
+        public SoArchitecture.FloatReference DamageAmount;
     }
 }

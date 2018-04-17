@@ -12,10 +12,10 @@ namespace RoboRyanTron.Unite2017.Variables
 {
     public class UnitHealth : MonoBehaviour
     {
-        public FloatVariable HP;
+        public SoArchitecture.FloatVariable HP;
 
         public bool ResetHP;
-        public FloatReference StartingHP;
+        public SoArchitecture.FloatReference StartingHP;
         public UnityEvent DamageEvent;
         public UnityEvent DeathEvent;
 
