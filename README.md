@@ -6,3 +6,7 @@ This is the source for the sample project I presented at Unite 2017. It features
 * [The video for the talk is posted on Unity's YouTube page.](https://www.youtube.com/watch?v=raQ3iHhE_Kk)
 * [Here is a blog post I did about the talk](http://www.roboryantron.com/2017/10/unite-2017-game-architecture-with.html)
 * [The slides are on slideshare.](https://www.slideshare.net/RyanHipple/game-architecture-with-scriptable-objects)
+
+# Package Manager
+
+Releases of SoArchitecture are meant to be used with the Unity3D Package Manager. Instructions for using SoArchitecture as a Unity Package: [SoArchitecture/Readme.md](/Assets/SoArchitecture/Readme.md)
