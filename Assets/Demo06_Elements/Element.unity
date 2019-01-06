@@ -344,6 +344,12 @@ Prefab:
       propertyPath: m_Name
       value: ElementalRock
       objectReference: {fileID: 0}
+    - target: {fileID: 114435455881642114, guid: 2c440f1377e7e3d44a33cf3ba899faf6,
+        type: 2}
+      propertyPath: Element
+      value: 
+      objectReference: {fileID: 11400000, guid: 15cd1eb544af4a549892b5eacf81792e,
+        type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 2c440f1377e7e3d44a33cf3ba899faf6, type: 2}
   m_IsPrefabParent: 0
@@ -617,6 +623,12 @@ Prefab:
       propertyPath: m_Name
       value: ElementalRock
       objectReference: {fileID: 0}
+    - target: {fileID: 114435455881642114, guid: 2c440f1377e7e3d44a33cf3ba899faf6,
+        type: 2}
+      propertyPath: Element
+      value: 
+      objectReference: {fileID: 11400000, guid: 15cd1eb544af4a549892b5eacf81792e,
+        type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 2c440f1377e7e3d44a33cf3ba899faf6, type: 2}
   m_IsPrefabParent: 0

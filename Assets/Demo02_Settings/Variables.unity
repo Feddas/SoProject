@@ -550,6 +550,11 @@ Prefab:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 114745938335398878, guid: 488f8e62d0160ee41af9c7604ae2550e,
+        type: 2}
+      propertyPath: m_OnEndEdit.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SetValue
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 488f8e62d0160ee41af9c7604ae2550e, type: 2}
   m_IsPrefabParent: 0
