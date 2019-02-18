@@ -1,0 +1,3 @@
+[submodule "Assets/SoArchitecture"]
+	path = Assets/SoArchitecture
+	url = https://github.com/Feddas/SoArchitecture.git
